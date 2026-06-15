@@ -14,3 +14,5 @@ URL of dataset obtained: https://www.kaggle.com/code/fathyfathysahlool/linear-re
 - Python
 - Pandas
 - Scikit-learn
+
+Done by John Lee Yan Long
